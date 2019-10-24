@@ -1,0 +1,14 @@
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\bin\Debug\netcoreapp2.1\CalendarFive.deps.json
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\bin\Debug\netcoreapp2.1\CalendarFive.runtimeconfig.json
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\bin\Debug\netcoreapp2.1\CalendarFive.runtimeconfig.dev.json
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\bin\Debug\netcoreapp2.1\CalendarFive.dll
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\bin\Debug\netcoreapp2.1\CalendarFive.pdb
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.csprojAssemblyReference.cache
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.csproj.CoreCompileInputs.cache
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.RazorAssemblyInfo.cache
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.RazorAssemblyInfo.cs
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.AssemblyInfoInputs.cache
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.AssemblyInfo.cs
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.RazorTargetAssemblyInfo.cache
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.dll
+E:\Ovindu\dotNetCore\CalendarFive\CalendarFive\obj\Debug\netcoreapp2.1\CalendarFive.pdb
